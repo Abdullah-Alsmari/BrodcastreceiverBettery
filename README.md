@@ -12,10 +12,9 @@ Android apps can send or receive broadcast messages from the Android system and 
 - its Charg or no
 
 
-<img width="510" alt="Screen Shot 2021-12-01 at 10 40 12 PM" src="https://user-images.githubusercontent.com/92260200/144302711-ed0e5cc9-9d3f-49b8-9cec-eb797c8a5dc9.png">   
- 
-<img width="320" alt="Screen Shot 2021-12-01 at 10 40 08 PM" src="https://user-images.githubusercontent.com/92260200/144302694-a282e36d-51ae-41e1-901d-f04c0e2abd8b.png">
- 
+<img width="1231" alt="Screen Shot 2021-12-04 at 11 32 57 AM" src="https://user-images.githubusercontent.com/92260200/144703141-720ecde7-f563-437a-90ff-5100808dfc31.png">
+
+
 
 
 
